@@ -3,7 +3,7 @@
 
 - 📌 **CLEAN CODE**
 
-- 🌱 I’m currently learning **JAVA, Kotlin, WebServices**
+- 🌱 I’m currently learning **JAVA,ReactJS**
 
 - I am interested in everything related to technology.
 
