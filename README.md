@@ -3,7 +3,7 @@
 
 - 📌 **CLEAN CODE**
 
-- 🌱 I’m currently learning **JAVA,Microservices**
+- 🌱 I’m currently learning **.NET,JAVA,Microservices**
 
 - I am interested in everything related to technology.
 
