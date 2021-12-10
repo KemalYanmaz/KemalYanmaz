@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemal</h1>
-<h3 align="center">Full Stack Developer from Kocaeli/Turkey</h3>
+<h3 align="center">Full Stack Developer from Istanbul/Turkey</h3>
 
 - 📌 **CLEAN CODE**
 
